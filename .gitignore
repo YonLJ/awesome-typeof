@@ -1,0 +1,7 @@
+!dist/
+dist/*
+!dist/types/
+
+coverage/
+node_modules/
+package-lock.json
